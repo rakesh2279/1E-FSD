@@ -1,0 +1,23 @@
+{
+  "name": "node-math-operations",
+  "version": "1.0.0",
+  "description": "A Node.js server to perform and display basic math operations (addition, subtraction) in HTML or JSON format.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "node.js",
+    "http",
+    "math",
+    "addition",
+    "subtraction",
+    "api",
+    "json",
+    "html"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
